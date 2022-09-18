@@ -1,4 +1,4 @@
-import ChildReactive from './/child';
+import ChildReactive from './child';
 
 const parentReactive = () => {
   return (
