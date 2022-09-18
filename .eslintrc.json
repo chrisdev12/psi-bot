@@ -1,5 +1,5 @@
 {
-  "plugins": ["prettier"],
+  "plugins": ["prettier", "react", "import", "jsx-a11y"],
   "extends": [
     "eslint:recommended",
     "plugin:react/recommended",
